@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Berame - Simple Calculator App/1.0.0": {
+        "runtime": {
+          "Berame - Simple Calculator App.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Berame - Simple Calculator App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

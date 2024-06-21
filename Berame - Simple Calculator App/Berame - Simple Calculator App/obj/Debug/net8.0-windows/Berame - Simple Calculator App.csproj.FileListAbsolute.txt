@@ -1,0 +1,16 @@
+C:\Users\Kim Berame\Documents\Dev\C#\Berame - Simple Calculator App\Berame - Simple Calculator App\bin\Debug\net8.0-windows\Berame - Simple Calculator App.exe
+C:\Users\Kim Berame\Documents\Dev\C#\Berame - Simple Calculator App\Berame - Simple Calculator App\bin\Debug\net8.0-windows\Berame - Simple Calculator App.deps.json
+C:\Users\Kim Berame\Documents\Dev\C#\Berame - Simple Calculator App\Berame - Simple Calculator App\bin\Debug\net8.0-windows\Berame - Simple Calculator App.runtimeconfig.json
+C:\Users\Kim Berame\Documents\Dev\C#\Berame - Simple Calculator App\Berame - Simple Calculator App\bin\Debug\net8.0-windows\Berame - Simple Calculator App.dll
+C:\Users\Kim Berame\Documents\Dev\C#\Berame - Simple Calculator App\Berame - Simple Calculator App\bin\Debug\net8.0-windows\Berame - Simple Calculator App.pdb
+C:\Users\Kim Berame\Documents\Dev\C#\Berame - Simple Calculator App\Berame - Simple Calculator App\obj\Debug\net8.0-windows\Berame___Simple_Calculator_App.Form1.resources
+C:\Users\Kim Berame\Documents\Dev\C#\Berame - Simple Calculator App\Berame - Simple Calculator App\obj\Debug\net8.0-windows\Berame - Simple Calculator App.csproj.GenerateResource.cache
+C:\Users\Kim Berame\Documents\Dev\C#\Berame - Simple Calculator App\Berame - Simple Calculator App\obj\Debug\net8.0-windows\Berame - Simple Calculator App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kim Berame\Documents\Dev\C#\Berame - Simple Calculator App\Berame - Simple Calculator App\obj\Debug\net8.0-windows\Berame - Simple Calculator App.AssemblyInfoInputs.cache
+C:\Users\Kim Berame\Documents\Dev\C#\Berame - Simple Calculator App\Berame - Simple Calculator App\obj\Debug\net8.0-windows\Berame - Simple Calculator App.AssemblyInfo.cs
+C:\Users\Kim Berame\Documents\Dev\C#\Berame - Simple Calculator App\Berame - Simple Calculator App\obj\Debug\net8.0-windows\Berame - Simple Calculator App.csproj.CoreCompileInputs.cache
+C:\Users\Kim Berame\Documents\Dev\C#\Berame - Simple Calculator App\Berame - Simple Calculator App\obj\Debug\net8.0-windows\Berame - Simple Calculator App.dll
+C:\Users\Kim Berame\Documents\Dev\C#\Berame - Simple Calculator App\Berame - Simple Calculator App\obj\Debug\net8.0-windows\refint\Berame - Simple Calculator App.dll
+C:\Users\Kim Berame\Documents\Dev\C#\Berame - Simple Calculator App\Berame - Simple Calculator App\obj\Debug\net8.0-windows\Berame - Simple Calculator App.pdb
+C:\Users\Kim Berame\Documents\Dev\C#\Berame - Simple Calculator App\Berame - Simple Calculator App\obj\Debug\net8.0-windows\Berame - Simple Calculator App.genruntimeconfig.cache
+C:\Users\Kim Berame\Documents\Dev\C#\Berame - Simple Calculator App\Berame - Simple Calculator App\obj\Debug\net8.0-windows\ref\Berame - Simple Calculator App.dll
